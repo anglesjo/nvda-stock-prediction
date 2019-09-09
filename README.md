@@ -1,2 +1,2 @@
-# nvda-stock-prediction
-NVDA Stock Prediction
+# NVIDIA Stock Prediction
+
